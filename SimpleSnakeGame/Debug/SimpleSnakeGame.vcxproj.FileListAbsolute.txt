@@ -1,0 +1,4 @@
+D:\emery\Documents\Coding Projects\SimpleSnakeGame\Debug\SimpleSnakeGame.exe
+D:\emery\Documents\Coding Projects\SimpleSnakeGame\Debug\SimpleSnakeGame.pdb
+D:\emery\Documents\Coding Projects\C++\SimpleSnakeGame\Debug\SimpleSnakeGame.exe
+D:\emery\Documents\Coding Projects\C++\SimpleSnakeGame\Debug\SimpleSnakeGame.pdb
